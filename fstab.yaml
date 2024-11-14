@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/cpilsworth/xwt/main"
+    url: "https://author-p31359-e1338271.adobeaemcloud.com/bin/franklin.delivery/cpilsworth/xwt/main"
     type: "markup"
     suffix: ".html"
